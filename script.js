@@ -13,6 +13,4 @@ function toggleMode() {
         // se tiver sem light, manter img
         img.setAttribute('src', './background/avatar.png')
     }
-
-
 }
